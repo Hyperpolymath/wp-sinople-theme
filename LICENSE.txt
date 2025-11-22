@@ -1,0 +1,173 @@
+Sinople WordPress Theme - Dual License
+
+This software is available under EITHER of the following licenses, at your option:
+
+================================================================================
+LICENSE A: MIT License
+================================================================================
+
+Copyright (c) 2025 Sinople Theme Contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+LICENSE B: Palimpsest License v0.8
+================================================================================
+
+Palimpsest License, Version 0.8
+A License for Politically Autonomous Software
+
+Copyright (c) 2025 Sinople Theme Contributors
+
+PREAMBLE
+
+This license embodies the principle that software should be free to use,
+modify, and distribute, while respecting the autonomy and safety of all
+contributors and users, regardless of political context.
+
+The term "Palimpsest" reflects that software evolves through layers of
+contribution, each building on what came before, creating a rich history
+that should be preserved and honored.
+
+TERMS AND CONDITIONS
+
+1. DEFINITIONS
+
+   "Work" means the software, documentation, and associated materials
+   covered by this license.
+
+   "Contributor" means any person or entity that creates or contributes
+   to the creation of the Work.
+
+   "Modification" means any change, addition, or deletion to the Work.
+
+   "Distribution" means any conveyance of the Work or Modifications to
+   another party.
+
+   "Political Context" means any governmental, organizational, or social
+   environment in which software is developed or used.
+
+2. GRANT OF RIGHTS
+
+   Subject to the terms of this license, each Contributor grants you a
+   perpetual, worldwide, non-exclusive, royalty-free license to:
+
+   a) Use the Work for any purpose
+   b) Modify the Work
+   c) Distribute the Work and Modifications
+   d) Sublicense rights under this license
+
+3. POLITICAL AUTONOMY
+
+   This Work is designed to be politically neutral and usable in any
+   Political Context. No Contributor may impose political conditions or
+   restrictions on use, modification, or distribution.
+
+   Users and contributors from all political perspectives, jurisdictions,
+   and organizational contexts are equally welcome and protected.
+
+4. ATTRIBUTION AND HISTORY
+
+   All distributions must preserve:
+
+   a) Original copyright notices
+   b) This license text
+   c) Attribution to all Contributors (via MAINTAINERS.md or equivalent)
+   d) Change history (via CHANGELOG.md or version control)
+
+   Like a palimpsest preserves layers of text, this Work preserves its
+   contribution history.
+
+5. CONTRIBUTION SAFETY
+
+   Contributors have the right to:
+
+   a) Contribute under pseudonyms or organizational identities
+   b) Revoke future use of their name in attribution (while retaining
+      code contributions)
+   c) Request removal from public contributor lists for safety reasons
+   d) Have their contributions respected regardless of political changes
+      in their jurisdiction
+
+6. NO WARRANTY
+
+   THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL ANY CONTRIBUTOR BE LIABLE FOR ANY CLAIM, DAMAGES OR
+   OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+   ARISING FROM, OUT OF OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER
+   DEALINGS IN THE WORK.
+
+8. MODIFICATION OF LICENSE
+
+   This license may not be modified for existing versions of the Work.
+   Future versions of the Work may adopt newer versions of the Palimpsest
+   License or alternative licenses as determined by the maintainers.
+
+9. COMPATIBILITY
+
+   This license is compatible with the MIT License, Apache License 2.0,
+   and other permissive open source licenses. Works combining code under
+   this license with code under those licenses may be distributed under
+   either license at the distributor's option.
+
+10. TERMINATION
+
+    Your rights under this license terminate automatically if you violate
+    any of its terms. However, rights of parties who have received copies
+    or rights from you do not terminate.
+
+END OF TERMS AND CONDITIONS
+
+================================================================================
+
+How to Apply This License:
+
+To apply the Palimpsest License to your work, attach the following notice:
+
+   Copyright (c) [year] [name of copyright holder]
+
+   This work is dual-licensed under the MIT License and the Palimpsest
+   License v0.8. You may choose which license to follow.
+
+   SPDX-License-Identifier: MIT OR Palimpsest-0.8
+
+================================================================================
+
+RATIONALE
+
+The Palimpsest License exists because:
+
+1. Software development transcends political boundaries
+2. Contributors deserve safety regardless of geopolitical changes
+3. Attribution should honor history while protecting individuals
+4. Political neutrality enables universal access and contribution
+5. Open source should be truly open to all humans
+
+This license enables cooperation across political divides while protecting
+individual contributors from political retribution or forced association.
+
+================================================================================
+
+For more information: https://github.com/palimpsest-license/
+Version: 0.8 (2025-11-22)

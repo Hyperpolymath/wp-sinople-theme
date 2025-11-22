@@ -1,0 +1,262 @@
+# humanstxt.org
+# The humans responsible and technology colophon
+
+# TEAM
+
+## Creator & Lead Developer
+AI: Claude Code (Anthropic)
+Role: Initial architecture and comprehensive implementation
+Location: Distributed (AI system)
+Date: 2025-11-22
+
+## Human Collaborators
+[Your name here]
+Role: Project vision, requirements, and direction
+Contact: [Your contact]
+From: [Your location]
+
+## Contributors
+See MAINTAINERS.md for full list of contributors across all three perimeters.
+
+# THANKS
+
+## Influences & Inspiration
+
+WordPress Community
+  For: Theme standards and best practices
+  URL: https://wordpress.org/
+
+Rust Community
+  For: Memory safety culture and type system excellence
+  URL: https://rust-lang.org/
+
+ReScript Community
+  For: Sound type system for web development
+  URL: https://rescript-lang.org/
+
+IndieWeb Movement
+  For: Decentralized web standards and human-centric design
+  URL: https://indieweb.org/
+
+Semantic Web Community
+  For: RDF/OWL ontologies and knowledge graphs
+  URL: https://www.w3.org/2001/sw/
+
+Deno Community
+  For: Modern, secure JavaScript runtime
+  URL: https://deno.land/
+
+Accessibility Advocates
+  For: WCAG standards and inclusive design principles
+  URL: https://www.w3.org/WAI/
+
+RSR Framework
+  For: Repository standards and TPCF governance model
+  URL: https://github.com/rhodium-standard/
+
+## Special Thanks
+
+- Anthropic (creators of Claude)
+- All open source contributors worldwide
+- You, for using/contributing to this project!
+
+# TECHNOLOGY COLOPHON
+
+## Core Stack
+
+### Backend / WASM
+Rust - Memory-safe systems programming
+  - Version: Stable (2021 edition)
+  - Purpose: RDF/OWL semantic processor
+  - URL: https://rust-lang.org/
+
+Sophia RDF - Rust RDF library
+  - Version: 0.8
+  - Purpose: Turtle parsing, graph storage
+  - URL: https://docs.rs/sophia/
+
+wasm-bindgen - Rust/JavaScript interop
+  - Version: 0.2
+  - Purpose: WASM bindings
+  - URL: https://rustwasm.github.io/docs/wasm-bindgen/
+
+### Type-Safe Layer
+ReScript - Sound type system for web
+  - Version: 11+
+  - Purpose: WASM bindings, UI components
+  - URL: https://rescript-lang.org/
+
+### Server Framework
+Deno - Secure JavaScript/TypeScript runtime
+  - Version: 1.40+
+  - Purpose: Fresh framework, API routes
+  - URL: https://deno.land/
+
+Fresh - Web framework for Deno
+  - Version: 1.6.0
+  - Purpose: Server-side rendering, islands
+  - URL: https://fresh.deno.dev/
+
+### WordPress
+PHP - Server-side scripting
+  - Version: 7.4+
+  - Purpose: WordPress theme integration
+  - URL: https://php.net/
+
+WordPress - Content management system
+  - Version: 6.0+
+  - Purpose: CMS and hosting platform
+  - URL: https://wordpress.org/
+
+## Frontend
+
+### Styling
+CSS3 - Modern cascading stylesheets
+  - Custom properties (CSS variables)
+  - Grid and Flexbox layouts
+  - Mobile-first responsive design
+
+### JavaScript
+ES6+ - Modern JavaScript
+  - Vanilla JS (no framework)
+  - Accessibility-first
+  - Progressive enhancement
+
+### Accessibility
+WCAG 2.3 AAA - Web Content Accessibility Guidelines
+  - 7:1 contrast ratios
+  - Full keyboard navigation
+  - Screen reader optimization
+  - URL: https://www.w3.org/WAI/WCAG23/
+
+## Semantic Web
+
+### RDF/OWL
+Turtle - Terse RDF Triple Language
+  - Format: .ttl files
+  - Purpose: Ontology definition
+  - URL: https://www.w3.org/TR/turtle/
+
+OWL 2 - Web Ontology Language
+  - Purpose: Class/property definitions
+  - URL: https://www.w3.org/TR/owl2-overview/
+
+### IndieWeb
+Webmention - W3C Recommendation
+  - Purpose: Decentralized comments
+  - URL: https://www.w3.org/TR/webmention/
+
+Micropub - W3C Recommendation
+  - Purpose: Publishing API
+  - URL: https://micropub.spec.indieweb.org/
+
+Microformats2 - Semantic HTML
+  - h-entry, h-card markup
+  - URL: https://microformats.org/
+
+## Build Tools
+
+### Rust
+cargo - Rust package manager
+wasm-pack - Rust to WASM compiler
+rustfmt - Code formatter
+clippy - Linter
+
+### JavaScript/Deno
+deno - Runtime and package manager
+ReScript compiler - ReScript to JS
+
+### Build Automation
+just - Command runner (justfile)
+Nix - Reproducible builds (flake.nix)
+bash - Shell scripts (build.sh)
+
+## Development Tools
+
+### Version Control
+Git - Distributed version control
+GitHub/GitLab - Hosting and collaboration
+
+### CI/CD
+GitHub Actions - Automated testing
+GitLab CI - Alternative CI/CD
+
+### Testing
+cargo test - Rust unit tests
+Deno test - Integration tests
+
+## Standards & Specifications
+
+- W3C RDF 1.1
+- W3C OWL 2
+- W3C Webmention
+- W3C Micropub
+- WCAG 2.3 AAA
+- RFC 9116 (security.txt)
+- Semantic Versioning 2.0.0
+- Conventional Commits
+- Contributor Covenant 2.1
+- Keep a Changelog
+
+## Licenses
+
+Dual Licensed:
+- MIT License (permissive, OSI-approved)
+- Palimpsest License v0.8 (politically autonomous)
+
+See LICENSE.txt for full terms.
+
+## Philosophy
+
+### Design Principles
+- Semantic web first
+- Accessibility mandatory (WCAG 2.3 AAA)
+- Type safety over runtime safety
+- Memory safety guaranteed (Rust)
+- Offline-first capable
+- Progressive enhancement
+- Political neutrality
+- Emotional safety for contributors
+
+### Governance
+- Tri-Perimeter Contribution Framework (TPCF)
+- Meritocratic advancement
+- Graduated trust model
+- Community-driven
+- Transparent decision-making
+
+## Stats (as of 2025-11-22)
+
+- Total Files: 65+
+- Lines of Code: 6,500+
+- Languages: 5 (Rust, ReScript, PHP, JavaScript, CSS)
+- Dependencies: Minimal (security-conscious)
+- Test Coverage: [TBD]
+- Documentation Pages: 12
+
+## Contact & Links
+
+- Repository: https://github.com/Hyperpolymath/wp-sinople-theme
+- Documentation: See README.md
+- Issues: GitHub Issues
+- Discussions: GitHub Discussions
+- Security: security@sinople.org
+- Conduct: conduct@sinople.org
+- Contribute: contrib@sinople.org
+
+---
+
+  _   _
+ | | | |_   _ _ __ ___   __ _ _ __
+ | |_| | | | | '_ ` _ \ / _` | '_ \
+ |  _  | |_| | | | | | | (_| | | | |
+ |_| |_|\__,_|_| |_| |_|\__,_|_| |_|
+
+   Made by humans (and AI)
+     With care and code
+      For everyone 🌿
+
+---
+
+Last updated: 2025-11-22
+Version: 1.0.0

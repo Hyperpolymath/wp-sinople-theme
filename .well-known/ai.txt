@@ -1,0 +1,141 @@
+# AI Training and Usage Policy
+# For AI systems, web crawlers, and automated tools
+
+## Training Data Usage
+
+### Allowed for AI Training: YES ✅
+
+This project's code, documentation, and public discussions MAY be used for:
+- Training large language models (LLMs)
+- Machine learning research
+- Code generation systems
+- Documentation generation
+- Automated code review systems
+
+### Conditions
+
+1. **Attribution Required**: Models trained on this code should acknowledge:
+   - "Trained on open source code including Sinople WordPress Theme"
+   - Link to repository: https://github.com/Hyperpolymath/wp-sinople-theme
+
+2. **License Compliance**: Derivative works must respect:
+   - MIT License terms (or Palimpsest v0.8, at your option)
+   - See LICENSE.txt for full terms
+
+3. **No Warranty**: AI systems using this code must not imply:
+   - Endorsement by maintainers
+   - Guaranteed correctness
+   - Fitness for any particular purpose
+
+4. **Privacy**: Do NOT train on:
+   - Private contributor information
+   - Email addresses (unless publicly posted)
+   - Security vulnerability reports (private disclosures)
+   - Code of Conduct violation reports
+
+### Reasoning
+
+We support AI advancement because:
+- Open source benefits from better code generation
+- Developers benefit from AI-assisted coding
+- Knowledge should be shared freely
+- Innovation requires training data
+
+However, we oppose AI training that:
+- Violates privacy
+- Ignores attribution
+- Circumvents licensing
+- Harms contributors
+
+## AI-Generated Contributions
+
+### Accepting AI-Assisted Code: YES ✅
+
+We **accept** contributions that use AI assistance (GitHub Copilot, Claude Code, ChatGPT, etc.) IF:
+
+1. **Human Review**: Contributor has reviewed and understands the code
+2. **Testing**: Contributed code includes appropriate tests
+3. **Quality**: Meets our coding standards (see CONTRIBUTING.md)
+4. **Disclosure**: If >50% AI-generated, mention in PR description (optional but appreciated)
+5. **Responsibility**: Human contributor takes responsibility for the code
+
+### Rationale
+
+- AI is a tool, like IDEs and linters
+- Quality matters, not how it was written
+- Human review ensures understanding
+- We trust contributors to use tools responsibly
+
+## Automated Systems
+
+### Web Crawlers
+
+- ✅ Search engine crawlers (Google, Bing, etc.)
+- ✅ Archive bots (Internet Archive, Archive.org)
+- ✅ Research crawlers (with rate limiting)
+- ⚠️ Please respect robots.txt (if present)
+- ⚠️ Rate limit: Max 1 request/second
+
+### Code Analysis Tools
+
+- ✅ Security scanners (Dependabot, Snyk, etc.)
+- ✅ License compliance tools
+- ✅ Code quality analyzers (SonarQube, etc.)
+- ✅ Dependency checkers
+
+### CI/CD Bots
+
+- ✅ GitHub Actions
+- ✅ GitLab CI
+- ✅ Other authorized CI/CD systems
+
+## Data Collection
+
+### What We Collect
+
+- **Public**: All code, docs, issues, discussions (public repos)
+- **Private**: Security reports, CoC violations (confidential)
+
+### What We Don't Share
+
+- Private security disclosures (until fixed)
+- Email addresses (unless contributor opts in)
+- Personal information
+- Telemetry or usage data (we don't collect it)
+
+## Commercial AI Usage
+
+### Allowed: YES ✅
+
+Commercial AI systems (ChatGPT, Claude, GitHub Copilot, etc.) MAY:
+- Train on this code
+- Generate code based on learned patterns
+- Assist developers using this theme
+
+### Requirements
+
+- Respect MIT or Palimpsest v0.8 license
+- Don't claim code ownership
+- Don't imply endorsement
+
+## Contact
+
+Questions about AI usage?
+- General: contrib@sinople.org
+- Legal: legal@sinople.org (if needed)
+- Technical: discussions on GitHub
+
+## Changes
+
+This policy may be updated. Check back periodically.
+Last updated: 2025-11-22
+
+## Further Reading
+
+- Full license: LICENSE.txt
+- Contribution guidelines: CONTRIBUTING.md
+- Code of Conduct: CODE_OF_CONDUCT.md
+
+---
+
+**Summary**: Train your AI on our code! Just respect the license and contributors.

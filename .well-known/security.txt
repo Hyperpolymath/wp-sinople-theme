@@ -1,0 +1,23 @@
+# security.txt - RFC 9116
+# https://securitytxt.org/
+
+Contact: mailto:security@sinople.org
+Expires: 2026-11-22T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://github.com/Hyperpolymath/wp-sinople-theme/.well-known/security.txt
+
+# Security Policy
+Policy: https://github.com/Hyperpolymath/wp-sinople-theme/blob/main/SECURITY.md
+
+# Acknowledgments
+Acknowledgments: https://github.com/Hyperpolymath/wp-sinople-theme/blob/main/SECURITY.md#security-hall-of-fame
+
+# Hiring (optional)
+# Hiring: https://sinople.org/careers
+
+# Encryption (optional - add PGP key if available)
+# Encryption: https://keys.openpgp.org/vks/v1/by-fingerprint/YOUR_FINGERPRINT
+
+# Please report security vulnerabilities responsibly.
+# DO NOT open public issues for security vulnerabilities.
+# See SECURITY.md for full disclosure policy.
